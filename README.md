@@ -1,16 +1,19 @@
-## Hi there 👋
+## AI Token Usage
 
-<!--
-**maxlory/maxlory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://tokscale.ai/u/maxlory">
+    <img src="https://tokscale.ai/api/embed/maxlory/svg?view=3d&tokens=compact&cost=compact" alt="maxlory's AI token usage on Tokscale" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Arcade Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maxlory/maxlory/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maxlory/maxlory/output/galaga-contribution-graph.svg">
+    <img alt="Galaga animation built from maxlory's GitHub contribution graph" src="https://raw.githubusercontent.com/maxlory/maxlory/output/galaga-contribution-graph.svg">
+  </picture>
+</div>
